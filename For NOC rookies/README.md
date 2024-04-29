@@ -1,3 +1,3 @@
-#  Task's Fro-NOC-beginners
+#  Tasks Fro-NOC-beginners
 
 
