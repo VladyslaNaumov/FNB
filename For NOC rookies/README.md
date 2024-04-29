@@ -1,3 +1,3 @@
-# Fro-NOC-beginners
-## This section will be about basic tasks for rookie NOC-engineers
+#  Task's Fro-NOC-beginners
+
 
